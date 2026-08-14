@@ -34,6 +34,3 @@ npm start
 
 6. Run `/setup` in the server as an Administrator.
 
-## Security
-
-Never commit your real Discord bot token to GitHub. Keep it in `.env` locally or in your hosting provider's secret/environment-variable settings.
